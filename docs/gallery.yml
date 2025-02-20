@@ -484,8 +484,8 @@
   image: https://barakhirshberg.github.io/MolecularSimulations/_static/tau_logo.jpg
 - name: "Python Data Science 数据科学"
   repository: https://github.com/RobinChen121/book-Python-Data-Science
-  website: https://robinchen121.github.io/book-Python-Data-Science
-  image: https://github.com/RobinChen121/book-Python-Data-Science/blob/main/data-science/logo2.png
+  website: https://robinchen121.github.io/book-Python-Data-Scie
+  image: https://raw.githubusercontent.com/RobinChen121/book-Python-Data-Science/refs/heads/main/_static/gallary-logo.gif
 - name: "Computational Astrophysics"
   repository: https://github.com/zingale/computational_astrophysics
   website: https://zingale.github.io/computational_astrophysics/
